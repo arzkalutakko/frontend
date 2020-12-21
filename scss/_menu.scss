@@ -79,7 +79,7 @@
   // Branding Side
 
   &-branding {
-    backdround: $primary-color;
+    background: $primary-color;
     transform: translate3d(0, 100%, 0);
     @include easeOut;
 
